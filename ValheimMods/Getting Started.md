@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 I've read a lot of guides over the last week or two on how to get started with modding Valheim.  This guide is intended solely to help my small group of friends mod their game to play on our shared server, but the concepts in this guide should let you install and play with any other Valheim mods you want.
 
-#Install mod manager and the shared map mod
+# Install mod manager and the shared map mod
 * Install r2modman
 	* Go to [the download page](https://thunderstore.io/package/ebkr/r2modman/)
 	* Select "Manual Download"
@@ -12,7 +12,7 @@ I've read a lot of guides over the last week or two on how to get started with m
 	* Select the BepInExPack_Valheim listing, and click Download.
 	* Find and select the WeylandMod pack, and Download the mod.
 
-#Add Valheim Plus to r2modman
+# Add Valheim Plus to r2modman
 
 By this point, you will have the shared map mod installed, but you also need to have Valheim Plus installed to connect to our server.  Installing Valheim Plus in the usual fashion doesn't actually allow you to launch the game with other mods from r2modman, so we need to add it to the mod manager.  Luckily, this is pretty easy.
 
