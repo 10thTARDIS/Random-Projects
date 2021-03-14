@@ -1,6 +1,9 @@
 # Introduction
 
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) ![valheim v0.147.3](https://img.shields.io/badge/valheim-v0.147.3-green) ![valheim plus v0.9.5](https://img.shields.io/badge/valheim%20plus-v0.9.5-green) ![WeylandMod v1.1.0](https://img.shields.io/badge/WeylandMod-v1.1.0-green)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) 
+
+*Currently working with:*  
+[![valheim v0.147.3](https://img.shields.io/badge/Valheim-v0.147.3-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.5](https://img.shields.io/badge/Valheim%20Plus-v0.9.5-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.1.0](https://img.shields.io/badge/WeylandMod-v1.1.0-blue)](https://github.com/WeylandMod/WeylandMod)
 
 I've read a lot of guides over the last week or two on how to get started with modding Valheim.  This guide is intended solely to help my small group of friends mod their game to play on our shared server, but the concepts in this guide should let you install and play with any other Valheim mods you want.  It'll get you up and running with [Valheim Plus](https://github.com/valheimPlus/ValheimPlus), one of the most popular Valheim mods at the moment, along with the [WeylandMod](https://github.com/WeylandMod/WeylandMod) pack, which we selected to share our maps over the Valheim Plus shared maps due to its ability to hold a copy of the shared map on the server.  Since our friends aren't always online at the same time, this makes sure we all get to benefit from map sharing.  Both Valheim Plus and WeylandMod are under active development, which I'm hoping will mean that they will either continue working after a Valheim update, or will rapidly be updated to allow them to work.
 
