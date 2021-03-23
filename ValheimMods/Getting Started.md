@@ -1,3 +1,10 @@
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) 
+
+*Currently working with:*  
+[![valheim v0.147.3](https://img.shields.io/badge/Valheim-v0.147.3-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.5](https://img.shields.io/badge/Valheim%20Plus-v0.9.5-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.1.0](https://img.shields.io/badge/WeylandMod-v1.1.0-blue)](https://github.com/WeylandMod/WeylandMod)
+
+---
+
 # Introduction
 
 I've read a lot of guides over the last week or two on how to get started with modding Valheim.  This guide is intended solely to help my small group of friends mod their game to play on our shared server, but the concepts in this guide should let you install and play with any other Valheim mods you want.  It'll get you up and running with [Valheim Plus](https://github.com/valheimPlus/ValheimPlus), one of the most popular Valheim mods at the moment, along with the [WeylandMod](https://github.com/WeylandMod/WeylandMod) pack, which we selected to share our maps over the Valheim Plus shared maps due to its ability to hold a copy of the shared map on the server.  Since our friends aren't always online at the same time, this makes sure we all get to benefit from map sharing.  Both Valheim Plus and WeylandMod are under active development, which I'm hoping will mean that they will either continue working after a Valheim update, or will rapidly be updated to allow them to work.
@@ -18,7 +25,7 @@ Further note, this is how you mod the client side.  After building and tearing d
 
 By this point, you will have the shared map mod installed, but you also need to have Valheim Plus installed to connect to our server.  Installing Valheim Plus in the usual fashion doesn't actually allow you to launch the game with other mods from r2modman, so we need to add it to the mod manager.  Luckily, this is pretty easy.
 
-* From this Github repo, download this .zip file: https://github.com/10thTARDIS/Random-Projects/raw/main/ValheimMods/ValheimPlusFiles.zip.  
+* From this Github repo, download this .zip file: https://github.com/10thTARDIS/Random-Projects/raw/main/ValheimMods/ValheimPlusFiles.zip.  **NOTE: I do not guarantee that this will be the most recent version of the plugin, or that it will work if you are using it in any other way than how I describe here.  I am packaging this as a convenience to the players in my group, *not* as a resource for the world.  Go to the [Valheim Plus repository](https://github.com/valheimPlus/ValheimPlus) for the full plugin and its dependancies, to read the update notes, and to support the developers.**
 	* Extract them to a place of your choosing where you can find them again (like your desktop or your downloads folder).
 * Go back to r2modman, and go to Settings.
 	* In Settings, click "Browse data folder".  This should open an Explorer window.
