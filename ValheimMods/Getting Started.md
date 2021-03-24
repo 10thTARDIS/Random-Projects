@@ -1,7 +1,7 @@
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) 
 
 *Currently working with:*  
-[![valheim v0.148.6](https://img.shields.io/badge/Valheim-v0.147.3-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.6](https://img.shields.io/badge/Valheim%20Plus-v0.9.6-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.2.0](https://img.shields.io/badge/WeylandMod-v1.2.0-blue)](https://github.com/WeylandMod/WeylandMod)
+[![valheim v0.148.6](https://img.shields.io/badge/Valheim-v0.148.6-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.6](https://img.shields.io/badge/Valheim%20Plus-v0.9.6-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.2.0](https://img.shields.io/badge/WeylandMod-v1.2.0-blue)](https://github.com/WeylandMod/WeylandMod)
 
 ---
 
@@ -33,3 +33,9 @@ By this point, you will have the shared map mod installed, but you also need to 
 	* Open another Explorer window to the place you saved the files for Valheim Plus.  There should be two files there, valheim_plus.cfg and ValheimPlus.dll.  Move the valheim_plus.cfg file to the BepInEx "config" folder, and the ValheimPlus.dll file to the BepInEx "plugins" folder. 
 
 Congratulations, you should now have an installed version of Valheim Plus.  To start playing the modded game, select "Start modded" in r2modman.  If you want to play without mods (note: you cannot play unmodded on a modded server), select "Start vanilla," or start Valheim in Steam.
+
+# Other Recommended Mods and Apps
+
+This is where I'll list out recommended mods and applications for Valheim.
+
+* Back up your character files automatically with [Valheim Save Shield](https://github.com/Razzmatazzz/ValheimSaveShield/releases).  I've lost items after a server issue before, and this would have saved me some trouble.
