@@ -34,6 +34,16 @@ By this point, you will have the shared map mod installed, but you also need to 
 
 Congratulations, you should now have an installed version of Valheim Plus.  To start playing the modded game, select "Start modded" in r2modman.  If you want to play without mods (note: you cannot play unmodded on a modded server), select "Start vanilla," or start Valheim in Steam.
 
+# Updating Mods
+
+To update the WeylandMod pack, open r2modman, go to Settings, and scroll down to the bottom option, "Update all mods."  That should update both the WeylandMod pack, and any other mods installed through r2modman.  
+To update Valheim Plus, grab the updated .dll file from here: https://github.com/10thTARDIS/Random-Projects/raw/main/ValheimMods/ValheimPlus.dll.  Open r2modman, and go to the Settings, then:
+* In Settings, click "Browse data folder".  This should open an Explorer window.
+* Click "Valheim" -> "profiles" -> "Default" -> "BepInEx" to navigate to where the plugins are stored.
+* Open another Explorer window to your Downloads folder.  Move the ValheimPlus.dll file to the BepInEx "plugins" folder in the first Explorer window.
+
+Congratulations, you should now be fully up-to-date.
+
 # Other Recommended Mods and Apps
 
 This is where I'll list out recommended mods and applications for Valheim.
