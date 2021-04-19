@@ -20,27 +20,13 @@ Further note, this is how you mod the client side.  After building and tearing d
 * Go to the Online tab in the sitebar, under Mods.  
 	* Select the BepInExPack_Valheim listing, and click Download.
 	* Find and select the WeylandMod pack, and Download the mod and its dependencies.
+	* Find and select Valheim Plus, and Download the mod and its dependancies.
 
-# Add Valheim Plus to r2modman
-
-By this point, you will have the shared map mod installed, but you also need to have Valheim Plus installed to connect to our server.  Installing Valheim Plus in the usual fashion doesn't actually allow you to launch the game with other mods from r2modman, so we need to add it to the mod manager.  Luckily, this is pretty easy.
-
-* From this Github repo, download this .zip file: https://github.com/10thTARDIS/Random-Projects/raw/main/ValheimMods/ValheimPlusFiles.zip.  **NOTE: I do not guarantee that this will be the most recent version of the plugin, or that it will work if you are using it in any other way than how I describe here.  I am packaging this as a convenience to the players in my group, *not* as a resource for the world.  Go to the [Valheim Plus repository](https://github.com/valheimPlus/ValheimPlus) for the full plugin and its dependancies, to read the update notes, and to support the developers.**
-	* Extract them to a place of your choosing where you can find them again (like your desktop or your downloads folder).
-* Go back to r2modman, and go to Settings.
-	* In Settings, click "Browse data folder".  This should open an Explorer window.
-	* Click "Valheim" -> "profiles" -> "Default" -> "BepInEx" to navigate to where the plugins are stored.
-	* Open another Explorer window to the place you saved the files for Valheim Plus.  There should be two files there, valheim_plus.cfg and ValheimPlus.dll.  Move the valheim_plus.cfg file to the BepInEx "config" folder, and the ValheimPlus.dll file to the BepInEx "plugins" folder. 
-
-Congratulations, you should now have an installed version of Valheim Plus.  To start playing the modded game, select "Start modded" in r2modman.  If you want to play without mods (note: you cannot play unmodded on a modded server), select "Start vanilla," or start Valheim in Steam.
+Congratulations, you should now have all the mods you need installed.  To start playing the modded game, select "Start modded" in r2modman.  If you want to play without mods (note: **you cannot play unmodded on a modded server**, and moving a character from a modded server to an unmodded **will cause you to lose items** due to inventory slot mismatches), select "Start vanilla," or start Valheim in Steam.
 
 # Updating Mods
 
-To update the WeylandMod pack, open r2modman, go to Settings, and scroll down to the bottom option, "Update all mods."  That should update both the WeylandMod pack, and any other mods installed through r2modman.  
-To update Valheim Plus, grab the updated .dll file from here: https://github.com/10thTARDIS/Random-Projects/raw/main/ValheimMods/ValheimPlus.dll.  Open r2modman, and go to the Settings, then:
-* In Settings, click "Browse data folder".  This should open an Explorer window.
-* Click "Valheim" -> "profiles" -> "Default" -> "BepInEx" to navigate to where the plugins are stored.
-* Open another Explorer window to your Downloads folder.  Move the ValheimPlus.dll file to the BepInEx "plugins" folder in the first Explorer window.
+To update the mods, open r2modman, go to Settings, and scroll down to the bottom option, "Update all mods."  That should update Valheim Plus, WeylandMod pack, and any other mods installed through r2modman.
 
 Congratulations, you should now be fully up-to-date.
 
@@ -48,4 +34,4 @@ Congratulations, you should now be fully up-to-date.
 
 This is where I'll list out recommended mods and applications for Valheim.
 
-* Back up your character files automatically with [Valheim Save Shield](https://github.com/Razzmatazzz/ValheimSaveShield/releases).  I've lost items after a server issue before, and this would have saved me some trouble.
+* Back up your character files automatically with [Valheim Save Shield](https://github.com/Razzmatazzz/ValheimSaveShield/releases).  I've lost items after a server issue before, and when switching between modded and unmodded servers, and this would have saved me some trouble.
