@@ -20,7 +20,7 @@ Further note, this is how you mod the client side.  After building and tearing d
 * Go to the Online tab in the sitebar, under Mods.  
 	* Select the BepInExPack_Valheim listing, and click Download.
 	* Find and select the WeylandMod pack, and Download the mod and its dependencies.
-	* Find and select Valheim Plus, and Download the mod and its dependancies.
+	* Find and select ValheimPlus, and Download the mod and its dependancies.
 
 Congratulations, you should now have all the mods you need installed.  To start playing the modded game, select "Start modded" in r2modman.  If you want to play without mods (note: **you cannot play unmodded on a modded server**, and moving a character from a modded server to an unmodded **will cause you to lose items** due to inventory slot mismatches), select "Start vanilla," or start Valheim in Steam.
 
