@@ -1,7 +1,7 @@
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges) 
 
 *Currently working with:*  
-[![valheim v0.148.6](https://img.shields.io/badge/Valheim-v0.148.6-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.8.2](https://img.shields.io/badge/Valheim%20Plus-v0.9.8.2-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.5.0](https://img.shields.io/badge/WeylandMod-v1.5.0-blue)](https://github.com/WeylandMod/WeylandMod)
+[![valheim v0.154.1](https://img.shields.io/badge/Valheim-v0.154.1-blue)](https://www.valheimgame.com/) [![valheim plus v0.9.8.2](https://img.shields.io/badge/Valheim%20Plus-v0.9.8.2-blue)](https://github.com/valheimPlus/ValheimPlus) [![WeylandMod v1.5.0](https://img.shields.io/badge/WeylandMod-v1.5.0-blue)](https://github.com/WeylandMod/WeylandMod)
 
 ---
 
